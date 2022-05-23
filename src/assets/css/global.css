@@ -1,0 +1,21 @@
+/* 全局样式表 */
+html , 
+body , 
+#app{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    min-width: 1200px;
+}
+.el-card{
+    margin-top: 20px;
+}
+.el-steps{
+    margin: 15px 0;
+}
+
+.ql-editor{
+    min-height: 300px
+}
